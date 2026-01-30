@@ -16,22 +16,15 @@ A simple and elegant Notes Application designed to help users quickly **create, 
 
 ## 🛠️ Tech Stack
 
-- Frontend: HTML, CSS, JavaScript *(or React, if applicable)*  
-- Backend: Python / FastAPI *(if applicable)*  
-- Storage: Local Storage / File System / Database  
-
-*(Update this section based on your actual implementation)*
+- Frontend: HTML, CSS, JavaScript
+- Storage: Local Storage / File System  
 
 ---
 
-## 📸 Screenshots
-
-_Add screenshots here to showcase the interface_
-
----
 
 ## ⚙️ Installation & Usage
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/notes-app.git
+
